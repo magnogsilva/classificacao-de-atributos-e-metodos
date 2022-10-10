@@ -1,0 +1,58 @@
+classe pássaro:
+
+	atributos:
+
+	espécie = caractere
+	idade = inteiro
+	tamanho = real
+
+	método:
+
+	voar
+	cantar
+	caçar
+
+
+classe bicicleta:
+
+	atributos:
+
+	modelo = caractere
+	cor = caractere
+	tamanho = real
+
+	método:
+
+	pedalar
+	percorrer caminhos
+	suportar peso
+
+
+classe compra:
+
+	atributos:
+
+	marca = caractere
+	modelo = caractere
+	tamanho = real
+
+	método:
+
+	utilização
+	função
+	necessidade
+
+
+classe organização:
+
+	atributos:
+
+	tamanho = real
+	cor = caractere
+	gênero = caractere
+
+	método:
+
+	separar
+	reunir
+	guardar
